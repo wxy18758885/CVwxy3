@@ -105,6 +105,7 @@ table{
     border: 3px solid rgb(3, 6, 58);
     text-align: center;
     vertical-align: middle;
+    margin: 0% 10%;
 }
 thead th {
     width: 25%;
