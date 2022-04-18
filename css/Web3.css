@@ -89,3 +89,35 @@
     color: #a774a3;
     padding-left: 118px;
 }
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+caption{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: left;
+    color: rgb(52, 4, 48);
+}
+th,td{
+    border: 1px solid rgb(85, 163, 49);
+    padding: 8px;
+}
+table{
+    border-collapse: collapse;
+    border: 3px solid rgb(3, 6, 58);
+    text-align: center;
+    vertical-align: middle;
+}
+thead th {
+    width: 25%;
+}
+.cell-highlight{ 
+    background-color: aqua;
+    font-weight: bold;     
+
+}
+thead{
+    background-color: rgb(144, 164, 164);
+    color: aliceblue;
+}
+
